@@ -1,0 +1,15 @@
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\bin\Debug\net6.0\Resit1.exe
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\bin\Debug\net6.0\Resit1.deps.json
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\bin\Debug\net6.0\Resit1.runtimeconfig.json
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\bin\Debug\net6.0\Resit1.dll
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\bin\Debug\net6.0\Resit1.pdb
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.csproj.AssemblyReference.cache
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.AssemblyInfoInputs.cache
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.AssemblyInfo.cs
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.csproj.CoreCompileInputs.cache
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.dll
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\refint\Resit1.dll
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.pdb
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\Resit1.genruntimeconfig.cache
+C:\Users\Shiva Bhandari\Source\Repos\Resit1\Resit1\obj\Debug\net6.0\ref\Resit1.dll
